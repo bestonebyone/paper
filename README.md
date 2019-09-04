@@ -2,5 +2,6 @@
 Share and Summarize awesome papers here
 
 # Topic
-- [HAND](./hand.md)
+- [Hand Pose](./hand.md)
+- [Hand Object Interaction](./HandObject.md)
 
