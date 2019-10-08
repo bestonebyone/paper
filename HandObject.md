@@ -1,4 +1,5 @@
 1. Variational Object-aware 3D Hand Pose from a Single RGB Image
+
 	- Publication: RA-L 2019
 	- Input: RGB
 	- Hand model: Keypoint
@@ -7,6 +8,7 @@
 	- Weaknesses or Comments:
 
 2. H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions(CVPR 2019)
+
 	- Publication: CVPR 2019
 	- Input: RGBSequences
 	- Hand model: Keypoint
@@ -15,6 +17,7 @@
 	- Weaknesses or Comments:
 
 3. Learning joint reconstruction of hands and manipulated objects
+
 	- Publication: CVPR 2019 
 	- Input: RGB
 	- Hand model: Mano Mesh
@@ -23,6 +26,7 @@
 	- Weaknesses or Comments:
 
 4. Resolving 3D Human Pose Ambiguities with 3D Scene Constraints
+
 	- Publication: ICCV 2019
 	- Input: RGB or RGBD
 	- Body model: SMPLify-X mesh
@@ -33,6 +37,7 @@
 	- Weaknesses or Comments:
 
 5. InteractionFusion: Real-time Reconstruction of Hand Poses and Deformable  Objects in Hand-object Interactions
+
 	- Publication: SIGGRAPH 2019
 	- Input: Two Depth Sequences
 	- Hand model: sphere mesh
@@ -44,6 +49,7 @@
 	- Weaknesses or Comments:
 
 6. Joint 3D tracking of a deformable  object in interaction with a hand
+
 	- Publication: ECCV 2018
 	- Input: RGBD sequence
 	- Hand model: Mesh
@@ -54,6 +60,7 @@
 	- Weaknesses or Comments:
 
 7. Robust Hand Pose Estimation during the Interaction with an Unknown Object
+
 	- Publication: ICCV 2017
 	- Input: Depth
 	- Hand model: Keypoint
@@ -65,6 +72,7 @@
 	- Weaknesses or Comments:
 
 8. Back to RGB: 3D tracking of hands and hand-object interactions based on short-baseline stereo
+
 	- Publication: ICCV 2017 workshop
 	- Input: RGB stereo sequence
 	- Hand model: Mesh
@@ -73,6 +81,7 @@
 	- Weaknesses or Comments:
 
 9. Real-time Joint Tracking of a Hand Manipulating an Object from RGB-D Input
+
 	- Publication: ECCV 2016
 	- Input: RGBDsequence
 	- Hand model: spheres model
@@ -83,6 +92,7 @@
 	- Weaknesses or Comments:
 
 10. Articulated Distance Fields for Ultra-Fast Tracking of Hands Interacting
+
 	- Publication: SIGGRAPH Asia 2017
 	- Input: depth sequence
 	- Hand model: signed distance field
