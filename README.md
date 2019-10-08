@@ -14,6 +14,8 @@
 
 # Topic
 
-- [Hand Pose](./hand.md)
+- [Hand Pose](./Hand.md)
 - [Hand Object Interaction](./HandObject.md)
+- [Body Pose](./Body.md)
+- [Segmentation](./Segmentation.md)
 
