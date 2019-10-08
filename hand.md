@@ -1,5 +1,3 @@
- # [Hand Collection](https://xinghaochen.github.io/awesome-hand-pose-estimation/)
-
 
 ## CVPR2019
 
