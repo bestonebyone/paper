@@ -1,4 +1,3 @@
-
 ## CVPR2019
 
 1. Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer
