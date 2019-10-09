@@ -1,5 +1,6 @@
 # Awesome Collection
 
+- [Awesome Lab](./lab.md)
 - [Hand Pose Estimation](https://xinghaochen.github.io/awesome-hand-pose-estimation/)
 - [Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
 - [Face](https://github.com/ChanChiChoi/awesome-Face_Recognition#face-alignment)
@@ -11,8 +12,6 @@
 - [Disentangled Representations](https://github.com/sootlasten/disentangled-representation-papers)
 - [Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
 
-
-# [Awesome Lab](./lab.md)
 
 
 # Topic
