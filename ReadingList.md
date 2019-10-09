@@ -2,4 +2,4 @@
 
 - Mask R-CNN
 
-- A structured self-attentive sentence embed- ding
+- A structured self-attentive sentence embedding
