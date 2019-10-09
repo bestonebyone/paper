@@ -41,3 +41,16 @@
 		- Both 3D geometry and 2D color images are taken as input and used to jointly learn semantic features for 3D object detection and 3D instance segmentation
 		- For each image, we first extract 2D features for each pixel with a series of 2D convolutions; we then backproject the resulting feature vector to the associated voxel in the 3D grid.
 	- Weaknesses or Comments:
+
+
+5. OCNet: Object Context Network for Scene Parsing
+	- Publication: arXiv
+	- Input: RGB
+	- Assumption: the label of a pixel is the category of the object that the pixel belongs to
+	- Contribution: 
+		- inspired by the self-attention approach
+		- introduce an object context pooling (OCP) scheme, which represents each pixel by exploiting the set of pixels that belong to the same object category with such a pixel, and we call the set of pixels as object context
+		- **compute the similarities between each pixel** and all the pixels, forming a so-called object context map for each pixel served as a surrogate for the true object context
+		- represent the pixel by aggregating the features of all the pixels weighted by the similarities
+		- feeds the input image, lets the feature map go through an object context module, yields an updated feature map, **predicts the label for each pixel**, up-samples the label map
+	- Weaknesses or Comments: check self-attention approach later
