@@ -11,3 +11,5 @@
 6. [CVLab, EPFL](https://www.epfl.ch/labs/cvlab/)
 
 7. [Perceiving Systems, Max Planck](https://ps.is.tuebingen.mpg.de/publications)
+
+8. [UBC, EPFL, Helge Rhodin](http://helge.rhodin.de)
