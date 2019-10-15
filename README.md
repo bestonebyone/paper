@@ -1,8 +1,9 @@
 # Awesome
 
-- [collection](./collection.md)
+- [Collection](./collection.md)
 - [Lab](./lab.md)
-- [tools](./Tools.md)
+- [Tools](./Tools.md)
+- [Article](./Article.md)
 
 
 
