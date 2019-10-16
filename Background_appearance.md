@@ -1,10 +1,10 @@
-1. Neural Face Editing with Intrinsic Image Disentangling
+1. **Neural Face Editing with Intrinsic Image Disentangling**
 
-2. Disentangling Motion, Foreground and Background Features in Videos
+2. **Disentangling Motion, Foreground and Background Features in Videos**
 
 3. Diverse Image-to-Image Translation via Disentangled Representations
 
-4. Multi-Level Variational Autoencoder: Learning Disentangled Representations from Grouped Observations 
+4. **Multi-Level Variational Autoencoder: Learning Disentangled Representations from Grouped Observations**
 
 5. Disentangling Pose from Appearance in Monochrome Hand Images
 
