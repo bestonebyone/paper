@@ -1,4 +1,4 @@
-1. [Hand Pose Estimation](https://xinghaochen.github.io/awesome-hand-pose-estimation/)
+1. [Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
 
 
 2. [Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
