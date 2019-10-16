@@ -13,4 +13,5 @@
 - [Hand Object Interaction](./HandObject.md)
 - [Body Pose](./Body.md)
 - [Segmentation](./Segmentation.md)
+- [Background and appearance](./Background_appearance.md)
 - [Reading list](./ReadingList.md)
