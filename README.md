@@ -1,3 +1,6 @@
+[AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
+
+
 # Awesome
 
 - [Collection](./collection.md)
@@ -13,5 +16,11 @@
 - [Hand Object Interaction](./HandObject.md)
 - [Body Pose](./Body.md)
 - [Segmentation](./Segmentation.md)
-- [Background and appearance](./Background_appearance.md)
+- [Back/fore-ground and Multiview](./Background_appearance.md)
+- [Network optimization](./Optimization.md)
+
+
+# Todo
+
+
 - [Reading list](./ReadingList.md)
