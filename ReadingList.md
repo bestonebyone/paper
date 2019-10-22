@@ -16,3 +16,5 @@
 - AtlasNet: A Papier-Maˆche ́ Approach to Learning 3D Surface Generation
 
 - Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision
+
+- DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation
