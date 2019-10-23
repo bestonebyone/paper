@@ -27,3 +27,5 @@
 
 10. [Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
 
+
+11. [Network Pruning](https://github.com/he-y/Awesome-Pruning)
