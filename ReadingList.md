@@ -18,3 +18,5 @@
 - Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision
 
 - DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation
+
+- **Bilinear** CNN Models for Fine-grained Visual Recognition
