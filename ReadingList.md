@@ -20,3 +20,5 @@
 - DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation
 
 - **Bilinear** CNN Models for Fine-grained Visual Recognition
+
+- A Bilinear Model for Sparse Coding
