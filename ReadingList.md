@@ -22,3 +22,5 @@
 - **Bilinear** CNN Models for Fine-grained Visual Recognition
 
 - A Bilinear Model for Sparse Coding
+
+- Aggregation via Separation: Boosting Facial Landmark Detector with Semi-Supervised Style Translation
