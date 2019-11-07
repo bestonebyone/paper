@@ -18,6 +18,7 @@
 - [Segmentation](./Segmentation.md)
 - [Back/fore-ground and Multiview](./Background_appearance.md)
 - [Network optimization](./Optimization.md)
+- [3D Reconstruction](./3D.md)
 
 
 # Dataset
