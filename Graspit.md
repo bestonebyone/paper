@@ -107,3 +107,9 @@ conda install pyyaml
 pip install rospkg
 
 pip install transforms3d
+
+
+sudo gedit /etc/environment 
+
+GRASPIT=~/.graspit
+GRASPIT_PLUGIN_DIR=~/.graspit/plugins
