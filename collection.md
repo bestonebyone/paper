@@ -29,3 +29,6 @@
 
 
 11. [Network Pruning](https://github.com/he-y/Awesome-Pruning)
+
+
+12. [Gesture Recognition](https://github.com/ChanChiChoi/awesome-Gesture-Recognition)
