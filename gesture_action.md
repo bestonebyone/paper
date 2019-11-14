@@ -40,3 +40,7 @@
     - a new end-to-end trainable neural network architecture incorporating temporal convolutions and bidirectional recurrence
     - first, we show that recurrence is crucial for this task; second, we show that adding temporal convolutions leads to significant improvements. 
     - discuss bidirectional RNN and temporal convolutions
+
+11. Pose from Action: Unsupervised Learning of Pose Features based on Motion
+    - similar motions similar poses even different modalities
+    - motion can be used as a supervisory signal to learn appearance representations.
