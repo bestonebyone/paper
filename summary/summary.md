@@ -1,3 +1,3 @@
-- [Reading list](./summary.md)
+- [Reading list](./ReadingList.md)
 
 - [Graspit](./Graspit.md)
