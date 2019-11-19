@@ -3,30 +3,30 @@
 
 # Awesome
 
-- [Collection](./collection.md)
-- [Lab](./lab.md)
-- [Tools](./Tools.md)
-- [Article](./Article.md)
+- [Collection](./collection/collection.md)
+- [Lab](./collection/lab.md)
+- [Tools](./collection/Tools.md)
+- [Article](./collection/Article.md)
 
 
 
 # Topic
 
-- [Hand Pose](./Hand.md)
-- [Hand Object Interaction](./HandObject.md)
-- [Body Pose](./Body.md)
-- [Segmentation](./Segmentation.md)
-- [Back/fore-ground and Multiview](./Background_appearance.md)
-- [Network optimization](./Optimization.md)
-- [3D Reconstruction](./3D.md)
+- [Hand Pose](./topic/Hand.md)
+- [Hand Object Interaction](./topic/HandObject.md)
+- [Body Pose](./topic/Body.md)
+- [Segmentation](./topic/Segmentation.md)
+- [Back/fore-ground and Multiview](./topic/Background_appearance.md)
+- [Network optimization](./topic/Optimization.md)
+- [3D Reconstruction](./topic/3D.md)
 
 
 # Dataset
 
-- [synthetic data](./Syntheticdata.md)
+- [synthetic data](./topic/Syntheticdata.md)
 
 
-# Todo
+# Summary
 
 
-- [Reading list](./ReadingList.md)
+- [Summary](./summary/summary.md)
