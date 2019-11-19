@@ -32,3 +32,9 @@
 
 
 12. [Gesture Recognition](https://github.com/ChanChiChoi/awesome-Gesture-Recognition)
+
+
+13. [Multi Object Tracking](https://github.com/SpyderXu/multi-object-tracking-paper-list)
+
+
+14. [Object Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
