@@ -2,7 +2,8 @@
 
 % Ubuntu 18.04
 
-% install graspit
+# Install graspit
+## Link: https://graspit-simulator.github.io
 
 sudo apt-get update
 
@@ -66,7 +67,8 @@ printenv GRASPIT
 
 graspit_simulator 
 
-% install ros  http://wiki.ros.org/melodic/Installation/Ubuntu
+# Install ROS  
+## Link: http://wiki.ros.org/melodic/Installation/Ubuntu
 
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 
@@ -80,7 +82,8 @@ echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
 
 source ~/.bashrc
 
-% install ros interface and commandline
+# Install ROS interface and commandline
+## Link: https://github.com/graspit-simulator/graspit_interface
 
 % install in the folder graspit
 
@@ -122,7 +125,8 @@ roscd graspit_commander
 
 py.test % success after all passed
 
-% install mano grasp
+# Install Mano grasp
+## Link: https://github.com/ikalevatykh/mano_grasp
 
 % install in the folder grasp
 
