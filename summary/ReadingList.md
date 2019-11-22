@@ -26,3 +26,5 @@
 - Aggregation via Separation: Boosting Facial Landmark Detector with Semi-Supervised Style Translation
 
 - Skeleton-Aware 3D Human Shape Reconstruction From Point Clouds
+
+- ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging
