@@ -6,7 +6,7 @@
 
 
 - Graspit
-	- [install](./Graspit.md)
+	- [install](../summary/Graspit.md)
 
 
 - Grasp
