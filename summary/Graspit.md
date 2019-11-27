@@ -78,7 +78,7 @@ sudo apt update
 
 sudo apt install ros-melodic-ros-base 
 
-echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
+sudo echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc % if this fails, we can not find the command catkin_init_workspace
 
 source ~/.bashrc
 
@@ -93,13 +93,15 @@ mkdir -p graspit_ros_ws/src
 
 cd graspit_ros_ws/src
 
+source /opt/ros/melodic/setup.bash
+
 catkin_init_workspace . 
 
 git clone https://github.com/graspit-simulator/graspit_interface.git
 
 git clone https://github.com/graspit-simulator/graspit_commander.git
 
-cd graspit_ros_ws
+cd .. % back to the fold graspit_ros_ws, ie, cd graspit/graspit_ros_ws
 
 catkin_make
 
