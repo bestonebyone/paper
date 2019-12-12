@@ -28,3 +28,7 @@
 - Skeleton-Aware 3D Human Shape Reconstruction From Point Clouds
 
 - ContactDB: Analyzing and Predicting Grasp Contact via Thermal Imaging
+
+- [PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows](https://github.com/stevenygd/PointFlow)
+
+- Normalizing Flows (better than VAE?)
