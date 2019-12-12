@@ -26,3 +26,7 @@ pose \theta
 shape \beta
 
 blend weights W
+
+
+mano 坐标零点在MCP
+mano 旋转是手腕坐标旋转 wrist
