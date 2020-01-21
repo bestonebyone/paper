@@ -13,3 +13,5 @@
 7. [Perceiving Systems, Max Planck](https://ps.is.tuebingen.mpg.de/publications)
 
 8. [UBC, EPFL, Helge Rhodin](http://helge.rhodin.de)
+
+9. [CG&CAD,Tsinghua](http://cgcad.thss.tsinghua.edu.cn/?cat=111)
