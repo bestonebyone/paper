@@ -19,3 +19,5 @@
 10. [thecaptury](http://www.thecaptury.com)
 
 11. [MPI, Prof. Dr. Gerard Pons-Moll](https://virtualhumans.mpi-inf.mpg.de)
+
+12. [RWTH-aachen, Prof. Dr. Leif Kobbelt](https://www.vr.rwth-aachen.de/person/165/)
