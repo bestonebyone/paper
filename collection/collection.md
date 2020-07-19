@@ -41,3 +41,6 @@
 
 
 15. [SIGGRAPH papers](https://kesen.realtimerendering.com)
+
+
+16. [Interaction-aware Behavior and Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
