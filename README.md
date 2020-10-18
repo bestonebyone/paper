@@ -12,6 +12,7 @@
 
 # Topic
 
+- [Reading List](https://www.notion.so/72e5792908184aed8a5819adc0bc6555?v=0150debeeae84b6fadb8b9ba063649fb)
 - [Hand Pose](./topic/Hand.md)
 - [Hand Object Interaction](./topic/HandObject.md)
 - [Body Pose](./topic/Body.md)
