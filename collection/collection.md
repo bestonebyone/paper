@@ -50,3 +50,6 @@
 
 
 18. [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
+
+
+19. [Awesome-6d-Object](https://github.com/ZhongqunZHANG/awesome-6d-object)
