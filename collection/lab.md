@@ -21,3 +21,7 @@
 11. [MPI, Prof. Dr. Gerard Pons-Moll](https://virtualhumans.mpi-inf.mpg.de)
 
 12. [RWTH-aachen, Prof. Dr. Leif Kobbelt](https://www.vr.rwth-aachen.de/person/165/)
+
+13. [JUSTUS THIES](https://justusthies.github.io/publications/)
+
+14. [virtualhumans, Gerard Pons-Moll](https://virtualhumans.mpi-inf.mpg.de/publications.html)
